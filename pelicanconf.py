@@ -31,7 +31,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 IMGLINKS = (('ACBL', '/images/acbl-logo-cropped.png','http://acbl.org/'),
          ('USBF', '/images/usbflogo2.png','http://usbf.org/'),
-         ('WBF', '/images/wbf-logo.png','http://worldbridge.org/'),)
+         ('WBF', '/images/wbf-logo.png','http://worldbridge.org/'),
+		 ('Bridge Winners', '/images/bridgewinners-logo.png','https://bridgewinners.com'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/tomc74'),)
