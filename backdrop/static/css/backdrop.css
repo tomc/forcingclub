@@ -1,24 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tomc 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-1
-00tomc/forcingclub
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-forcingclub/theme/css/backdrop.css
-@tomc tomc init
-99d1281 2 days ago
-7913 lines (7077 sloc)  232 KB
-  
 /* latin-ext */
 @font-face {
   font-family: 'Niconne';
@@ -43,8 +22,10 @@ forcingclub/theme/css/backdrop.css
 
 @font-face {
   font-family: 'charter';
+  /* see next block 
   src: url('../fonts/charter_italic-webfont.eot');
-  src: url('../fonts/charter_italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/charter_italic-webfont.woff') format('woff');
+  src: url('../fonts/charter_italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/charter_italic-webfont.woff') format('woff'); */
+  src: url('../fonts/DejaVuSans-Oblique.woff2') format('woff2')
   font-weight: normal;
   font-style: italic; }
 
