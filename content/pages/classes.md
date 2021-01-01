@@ -1,7 +1,7 @@
 Title: Classes	
 Date: 2019-11-25 17:04
 
-No public classes are currently scheduled. The next public class is estimated to be in January/February of 2020 at [Eastside Bridge Center](https://www.bridgewebs.com/eastside/) in Redmond, WA.
+Due to Covid-19, no public classes are currently scheduled. Classes will resume once face to face bridge is possible, but currently there is no ETA.  Classes will be held at [Eastside Bridge Center](https://www.bridgewebs.com/eastside/) in Redmond, WA.
 
 For private classes, please contact Tom for more information.
 

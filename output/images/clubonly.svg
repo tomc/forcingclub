@@ -8,89 +8,89 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="256"
-   height="256"
-   viewBox="0 0 67.733332 67.733335"
-   version="1.1"
-   id="svg8"
+   sodipodi:docname="clubonly.svg"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="clubonly.svg">
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 135.46666 135.46667"
+   height="512"
+   width="512">
   <defs
      id="defs2">
     <linearGradient
-       id="linearGradient842"
-       inkscape:collect="always">
+       inkscape:collect="always"
+       id="linearGradient842">
       <stop
-         id="stop838"
+         style="stop-color:#115640;stop-opacity:1;"
          offset="0"
-         style="stop-color:#115640;stop-opacity:1;" />
+         id="stop838" />
       <stop
-         id="stop840"
+         style="stop-color:#115640;stop-opacity:0;"
          offset="1"
-         style="stop-color:#115640;stop-opacity:0;" />
+         id="stop840" />
     </linearGradient>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       id="filter2372"
        inkscape:label="Drop Shadow"
-       id="filter2372">
+       style="color-interpolation-filters:sRGB">
       <feFlood
-         flood-opacity="0.498039"
-         flood-color="rgb(0,0,0)"
+         id="feFlood2362"
          result="flood"
-         id="feFlood2362" />
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.498039" />
       <feComposite
-         in="flood"
-         in2="SourceGraphic"
-         operator="in"
+         id="feComposite2364"
          result="composite1"
-         id="feComposite2364" />
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
       <feGaussianBlur
-         in="composite1"
-         stdDeviation="2"
+         id="feGaussianBlur2366"
          result="blur"
-         id="feGaussianBlur2366" />
+         stdDeviation="2"
+         in="composite1" />
       <feOffset
-         dx="4"
-         dy="4"
+         id="feOffset2368"
          result="offset"
-         id="feOffset2368" />
+         dy="4"
+         dx="4" />
       <feComposite
-         in="SourceGraphic"
-         in2="offset"
-         operator="over"
+         id="feComposite2370"
          result="composite2"
-         id="feComposite2370" />
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
     </filter>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="35.226944"
-       x2="70.713967"
-       y1="35.226944"
-       x1="-5.5960683"
-       id="linearGradient844"
+       inkscape:collect="always"
        xlink:href="#linearGradient842"
-       inkscape:collect="always" />
+       id="linearGradient844"
+       x1="-5.5960684"
+       y1="35.226944"
+       x2="70.713966"
+       y2="35.226944"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="119.90115"
-     inkscape:cy="157.14259"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     inkscape:window-x="-9"
+     inkscape:window-maximized="1"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="271.4283"
+     inkscape:cx="119.90115"
+     inkscape:zoom="1.4"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -99,25 +99,25 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     id="layer1"
      inkscape:groupmode="layer"
-     id="layer1">
+     inkscape:label="Layer 1">
     <text
-       xml:space="preserve"
-       style="font-size:94.4422px;line-height:118.053px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#115640;fill-opacity:1;stroke:#ffffff;stroke-width:0.95318765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2372);image-rendering:auto"
-       x="-9.7509718"
-       y="69.62825"
+       transform="matrix(2.0109849,0,0,1.8586316,2.5223589,2.5220766)"
        id="text12"
-       transform="matrix(0.86681659,0,0,0.79998796,5.6445148,5.637381)"><tspan
-         sodipodi:role="line"
-         id="tspan10"
-         x="-9.7509718"
+       y="69.62825"
+       x="-9.7509718"
+       style="font-size:94.4422px;line-height:118.053px;font-family:Calibri;-inkscape-font-specification:Calibri;writing-mode:lr-tb;fill:#115640;fill-opacity:1;stroke:#ffffff;stroke-width:0.410566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2372);image-rendering:auto"
+       xml:space="preserve"><tspan
+         style="font-size:94.4422px;fill:#115640;fill-opacity:1;stroke:#ffffff;stroke-width:0.410566;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          y="69.62825"
-         style="font-size:94.4422px;fill:#115640;fill-opacity:1;stroke:#ffffff;stroke-width:0.95318765;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">♣</tspan></text>
+         x="-9.7509718"
+         id="tspan10"
+         sodipodi:role="line">♣</tspan></text>
   </g>
 </svg>
