@@ -40,6 +40,6 @@ In SA, the 1\s&mdash;2\d auction becomes problematic; we hardly want to GF this 
 
 There are other issues with opening 1\c on hands like this as well. The plan of 1\c, then 1\s, then 2\s is all well and good when the opponents stay out of your way, but far too often that is no longer the case! Suppose you open 1\c and the next hand bids 4\h, which goes pass pass back to you. Perhaps you might bid 4\s, but are you comfortable doing so? Would it stun anyone if you were then doubled and go for a large number?
 
-There's also the issue of using our best tools.  Over a 1\s opener we have:  Jacoby 2NT, spinters, Forcing NT, and so on. Over 1\c we have...crickets.  If the auction goes 1\c&mdash;3NT, do you now whip out 4\s? Is partner going to know that's meant as a sign off bid rather than a slam try?
+There's also the issue of using our best tools.  Over a 1\s opener we have:  Jacoby 2NT, splinters, Forcing NT, and so on. Over 1\c we have...crickets.  If the auction goes 1\c&mdash;3NT, do you now whip out 4\s? Is partner going to know that's meant as a sign off bid rather than a slam try?
 
 There was a time when it was normal enough to open 1\c on this hand, but with the exception of a few hold outs to a bygone era this hand will be opened 1\s by any expert.
