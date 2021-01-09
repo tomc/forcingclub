@@ -1,5 +1,6 @@
 Title: What do you open?
 Date: 2021-01-08 16:26
+Tags: Bidding
 
 You hold:
 
